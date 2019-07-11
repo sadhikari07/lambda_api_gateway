@@ -13,9 +13,11 @@ https://xw86fzyns2.execute-api.us-east-1.amazonaws.com/repeatFinder
 ## Instructions on running on postman:
 On postman, create a get request by using the above mentioned url, and entering parameters as follows:
 - key: inputString
-- value: <your string>
+- value: "your string"
   
- From web browser enter the url: https://xw86fzyns2.execute-api.us-east-1.amazonaws.com/repeatFinder?inputString=<your input string>
+ From web browser enter the url: https://xw86fzyns2.execute-api.us-east-1.amazonaws.com/repeatFinder?inputString=
+ followed by your string.
+ Example: https://xw86fzyns2.execute-api.us-east-1.amazonaws.com/repeatFinder?inputString=hello hi bye bye
   
 ## Referemnces:
  - Michelle's class lecture
