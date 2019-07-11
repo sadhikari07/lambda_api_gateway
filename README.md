@@ -1,7 +1,7 @@
 # Lambda_api_gateway
 
 # Description of application:
-This application helps users to find the first repeated word in a string, which can be an entire book.
+This application helps users to find the first repeated word in a string, which can be an entire book. The method to get the first repeated word is set as lambda function and the get method for the api is deployed.
 
 ## Screenshot of post man:
 
